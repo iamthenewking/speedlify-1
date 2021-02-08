@@ -14,7 +14,7 @@ module.exports = {
 	},
 	urls: [
 		"https://www.jnadealerprogram.com/",
-		"https://www.jnadealerprogram.com/blog",
+		"https://www.jnadealerprogram.com/blog/",
 		
 	]
 };
